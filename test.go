@@ -1,0 +1,5 @@
+package zujian
+
+func G()  {
+
+}
